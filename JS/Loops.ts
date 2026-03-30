@@ -2,7 +2,7 @@
 //for loop : two type (for.. in and for.. of)
 //whileloop and do while loop
 
-//For loop: initialisation /consition and incrementation occur in single line
+//For loop: initialisation /condition and incrementation occur in single line
 
 for(let i=1;i<=10;i++){
     console.log(i)
