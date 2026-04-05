@@ -1,4 +1,6 @@
 //javascript is runtime language, that means all inferances and data type conversion /error occurs at runtime of code
+// Typescript is Typed javascript, some data types are not present in java script so typscript fulfils the gap
+// Type script has syntactic supreset which means it is compiles like java script and gives us advantaage of type safety while compiling 
 //type script is compile time language that means all the codes execution,error/type conversions occur at each line 
 //Typescript inference and 
 
