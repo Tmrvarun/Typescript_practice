@@ -51,7 +51,7 @@ for (let i in num2){
 
 
 // while loop uses : It is used when we dont know about the loop iteration
-// eg. infinite page scrooling and stooping at desired page to find element
+// eg. infinite page scrooling and stopping at desired page to find element
 // continuous page loading 
 // continuos page scrooling to find the desired element
 //calendar handling
