@@ -1,5 +1,5 @@
 //inheritance is a concept where a child class 'extends' the properties of parent class
-// while extending the child class also extends the emthods and variable of parent and for method we have to define additional variable
+// while extending the child class also extends the methods and variable of parent and for method we have to define additional variable
 
 class employee{
     empname:string;
