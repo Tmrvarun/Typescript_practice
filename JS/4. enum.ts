@@ -1,4 +1,4 @@
-//Enums are the collection of set of daya types
+//Enums are the collection of set of data types
 //denoted by: enum {}
 //Three types: String, Number,heterogeneous
 
