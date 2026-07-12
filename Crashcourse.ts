@@ -175,3 +175,53 @@
 // Generics<string>('1','2'); //HERE WE ARE ASSIGNITING STRING TYPE to variable generIc T 
 // Generics<number>(1,2)
 // Generics<Array<number>>([1],[2])
+
+
+//Class inheritance: it is a concept of inheriting parent class method and variables into child class
+
+
+//1. Normal inheritance:
+
+// class animal{
+//     move(){
+//         console.log ('Animal Move')
+//     }
+// }
+
+// class dog extends animal{
+//     walk(){
+//         console.log('Dog walks')
+//     }
+// }
+
+// let D=new dog()
+// D.walk()
+// D.move()
+
+
+// 2. Inheriting using constructor : here if we add constructor in both parent and child , then we have to add super (parent parameter) in child constructor , so that constructor parameter become accessible
+
+// class animal{
+//     constructor(public name){
+
+//     }
+// }
+
+// class dog extends animal{
+
+//     constructor (public breed,public name){
+//         super(name)
+//     }
+
+//     display(){
+//         console.log(this.name,this.breed)       
+//     }
+
+//     walk(){
+//         console.log('Dog walks')
+//     }
+// }
+
+// let D=new dog('Dalmation','Bruno')
+// D.walk()
+// D.display()
