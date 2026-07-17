@@ -18,7 +18,7 @@
 // console.log(string1)
 
 // let array2:number[]
-// array2=[101.102,103]
+// array2=[101,102,103]
 // console.log(array2)
 // array2.push(104)
 // console.log(array2)
