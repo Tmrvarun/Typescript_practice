@@ -79,7 +79,7 @@
 
 // p1={name:'Student',rollnumber:123,examstatus:true}
 
-// let p2:(stude1 & stud2) // both unyerface parameter should be assigned to object here
+// let p2:(stude1 & stud2) // both interface parameter should be assigned to object here
 // p2={name:'stud1',rollnumber:186,examstatus:true,name1:'Test2',class:5,section:'D'}
 // console.log(p2)
 
