@@ -75,7 +75,7 @@
 //     examstatus:boolean
 // }
 
-// let p1:(stude1|stud2) // Any properties of the interfac parameter works
+// let p1:(stude1|stud2) // Any properties of the interfaces parameters works
 
 // p1={name:'Student',rollnumber:123,examstatus:true}
 
